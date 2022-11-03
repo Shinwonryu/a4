@@ -1,0 +1,81 @@
+Script started on 2022-11-03 00:13:37-04:00
+bash: alias: l: not found
+bash: alias: =: not found
+bash: alias: ls -latr: not found
+bash: alias: w: not found
+bash: alias: =: not found
+bash: alias: ls -la | wc: not found
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ [K[jeremiah@sjsu jeremiah]$ fgrep "retweet" downloaded_tweets_extend_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv | cut -f 2 | sort | uniq -c | sort -nr -k1 | head
+grep: downloaded_tweets_extend_nolf2.tsv: No such file or directory
+grep: downloaded_tweets_extend_original_nolf2.tsv: No such file or directory
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ fgrep "retweet" downloaded_tweets_extend_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv | cut -f 2 | sort | uniq -c | sort -nr -k1 | head[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfgrep "retweet" downloaded_tweets_extend_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv | cut -f 2 | sort | uniq -c | sort -nr -k1 | head[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript a4.txt[Kcd CUSTOMERS/[3@rmdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cscript a4.txtfgrep "retweet" downloaded_tweets_extend_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv | cut -f 2 | sort | uniq -c | sort -nr -k1 | head[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kdownloaded_tweets_extend_original_nolf2.tsv
+bash: downloaded_tweets_extend_original_nolf2.tsv: command not found
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ downloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kdownloaded_tweets_extend_original_nolf2.tsvcd /mnt/scratch/raizendownloaded_tweets_extend_original_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv[C[1P[1@p[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P downloaded_tweets_extend_original_nolf2.tsv[1P downloaded_tweets_extend_original_nolf2.tsv[1P downloaded_tweets_extend_original_nolf2.tsv[1P downloaded_tweets_extend_original_nolf2.tsv[1P downloaded_tweets_extend_original_nolf2.tsv[1P downloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cj downloaded_tweets_extend_original_nolf2.tsve downloaded_tweets_extend_original_nolf2.tsvr downloaded_tweets_extend_original_nolf2.tsve downloaded_tweets_extend_original_nolf2.tsvm downloaded_tweets_extend_original_nolf2.tsvi downloaded_tweets_extend_original_nolf2.tsva downloaded_tweets_extend_original_nolf2.tsvh downloaded_tweets_extend_original_nolf2.tsv[C[1Pdownloaded_tweets_extend_original_nolf2.tsv/downloaded_tweets_extend_original_nolf2.tsv
+cp: missing destination file operand after '/mnt/scratch/jeremiah/downloaded_tweets_extend_original_nolf2.tsv'
+Try 'cp --help' for more information.
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ cp /mnt/scratch/jeremiah/downloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[25Pdownloaded_tweets_extend_original_nolf2.tsv/home/test/A1/downloaded_tweets_extend_original_nolf2.tsvdownloaded_tweets_extend_original_nolf2.tsv
+bash: /home/test/A1/downloaded_tweets_extend_original_nolf2.tsvdownloaded_tweets_extend_original_nolf2.tsv: No such file or directory
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ /home/test/A1/downloaded_tweets_extend_original_nolf2.tsvdownloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K/home/test/A1/downloaded_tweets_extend_original_nolf2.tsvdownloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcp /mnt/scratch/jeremiah/downloaded_tweets_extend_original_nolf2.tsv[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/home/test/A1/downloaded_tweets_extend_original_nolf2.tsv /mnt/scratch/yourname[K[K[K[K[K[K[K[Kjeremiah
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ cp /home/test/A1/downloaded_tweets_extend_original_nolf2.tsv /mnt/scratch/jeremiah[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/test/A1/downloaded_tweets_extend_original_nolf2.tsvdownloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[32Pcp /mnt/scratch/jeremiah/downloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[25Pdownloaded_tweets_extend_original_nolf2.tsv[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfgrep "retweet" downloaded_tweets_extend_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv | cut -f 2 | sort | uniq -c | sort -nr -k1 | head[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript a4.txt[Kfgrep "retweet" downloaded_tweets_extend_nolf2.tsv downloaded_tweets_extend_original_nolf2.tsv | cut -f 2 | sort | uniq -c | sort -nr -k1 | head
+grep: downloaded_tweets_extend_nolf2.tsv: No such file or directory
+     15 1231514832479948802
+      3 1243560408025198593
+      2 826631824700997633
+      2 798953701972938752
+      2 1640929196
+      2 1410700164067647495
+      2 1244795359097958401
+      1 993492864066768899
+      1 951840618
+      1 94350709
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ grep "type=quoted" downloaded_tweets_extend_original_nolf2.tsv | cut -f 5 | cut -c  22-40 | head
+1039898976076611585
+1040336819039035394
+1115825892297707521
+1152191948096245760
+980819581445931009 
+1241103836292530176
+1279728357786161152
+1271551614717960207
+1308696061570158594
+1316134502591344648
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ grep "type=quoted" downloaded_tweets_extend_original_nolf2.tsv | cut -f 1 | head
+1040192907855187968
+1040337381356974081
+1120816221580959745
+1152569684547555329
+1158011717898518528
+1241348429546217475
+1279734335961268225
+1294544815401529344
+1310893073900220416
+1316384499366875137
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ grep "type=quoted" downloaded_tweets_extend_nolf2.tsv | cut -f 6 | sort | uniq -c | sort -nr -k1 | head
+grep: downloaded_tweets_extend_nolf2.tsv: No such file or directory
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ grep "type=quoted" downloaded_tweets_extend_nolf2.tsv | cut -f 6 | sort | uniq -c | sort -nr -k1 | head[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@o[17@riginal_nolf2.tsv
+   4777 
+    126 18831926
+     35 544732668
+     11 1290232189615894531
+      5 1688
+      4 763010018
+      4 172323296
+      4 1034675221452578816
+      3 919965874311782400
+      3 321072317
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ grep "type=quote" downloaded_tweets_extend_nolf2.tsv | cut -f 4 | sort | uniq -c | sort -nr -k1 | head
+grep: downloaded_tweets_extend_nolf2.tsv: No such file or directory
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ grep "type=quote" downloaded_tweets_extend_nolf2.tsv | cut -f 4 | sort | uniq -c | sort -nr -k1 | head[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@o[17@riginal_nolf2.tsv
+     94 LongCovid
+     87 Ukraine
+     85 COVID19
+     47 auspol
+     37 StandWithUkraine
+     37 Omicron
+     27 cdnpoli
+     26 OneOfUsAllOfUs
+     26 BA2
+     24 Strongmen
+]0;jeremiah@sjsu:/mnt/scratch/jeremiah[jeremiah@sjsu jeremiah]$ exit
+
+Script done on 2022-11-03 00:28:01-04:00
